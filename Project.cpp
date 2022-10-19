@@ -5,7 +5,7 @@
 #include<conio.h>
 using namespace std;
 
-			//Class Customer
+//Class Customer
 class Customer
 {
 	string name;	   			
